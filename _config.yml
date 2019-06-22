@@ -12,7 +12,7 @@ github_repo: "https://github.com/monkeycoffee/monkeycoffee.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "好风凭借力，送我上青云"
-sidebar-avatar: img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/IMG_20190622_153909.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
