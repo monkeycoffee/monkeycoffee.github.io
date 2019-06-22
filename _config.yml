@@ -2,12 +2,12 @@
 title: ZF Blog
 SEOTitle: 张锋的博客 | ZF Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: monkeycoffee@163.com
+description: "三人行必有我师焉"
+keyword: "ZF, ZF Blog, 张锋的博客, zhangfeng, 张锋, 数据分析"
+url: "http://monkeycoffee.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/monkeycoffee/monkeycoffee.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
